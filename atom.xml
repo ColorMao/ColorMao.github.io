@@ -6,7 +6,7 @@
   <link href="https://colormao.github.io/atom.xml" rel="self"/>
   
   <link href="https://colormao.github.io/"/>
-  <updated>2022-10-10T08:31:49.581Z</updated>
+  <updated>2022-10-11T16:54:25.007Z</updated>
   <id>https://colormao.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Github搭建个人博客V1.5</title>
-    <link href="https://colormao.github.io/2022/10/09/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2V1-5/"/>
-    <id>https://colormao.github.io/2022/10/09/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2V1-5/</id>
-    <published>2022-10-09T13:19:00.000Z</published>
-    <updated>2022-10-10T08:31:49.581Z</updated>
+    <title>Github搭建个人博客</title>
+    <link href="https://colormao.github.io/2022/10/11/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://colormao.github.io/2022/10/11/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-10-11T15:49:00.000Z</published>
+    <updated>2022-10-11T16:54:25.007Z</updated>
     
     
       
@@ -34,7 +34,7 @@
     
     
     
-    <category term="技术" scheme="https://colormao.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="文档" scheme="https://colormao.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
     <category term="搭建博客" scheme="https://colormao.github.io/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
@@ -43,22 +43,27 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://colormao.github.io/2022/10/08/hello-world/"/>
-    <id>https://colormao.github.io/2022/10/08/hello-world/</id>
-    <published>2022-10-08T13:03:37.325Z</published>
-    <updated>2022-10-08T13:03:37.325Z</updated>
+    <link href="https://colormao.github.io/2022/10/10/hello-world/"/>
+    <id>https://colormao.github.io/2022/10/10/hello-world/</id>
+    <published>2022-10-10T11:41:00.000Z</published>
+    <updated>2022-10-11T17:12:15.141Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;欢迎使用&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;!这是你的第一篇帖子,检查&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;文档&lt;/a&gt; 了解更多信息。&lt;/p&gt;
+&lt;p&gt;如果在使用Hexo时遇到任何问题，可以在&lt;a</summary>
         
       
     
     
     
+    <category term="文档" scheme="https://colormao.github.io/categories/%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="Hexo帮助文档" scheme="https://colormao.github.io/tags/Hexo%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   

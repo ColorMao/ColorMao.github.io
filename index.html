@@ -290,6 +290,13 @@
 
 <div class="carousel carousel-slider center index-cover" data-indicators="true" style="margin-top: -64px;">
     
+        <div id="prev-cover" class="left waves-effect carousel-control">
+            <i class="icon fa fa-angle-left"></i>
+        </div>
+        <div id="next-cover" class="right waves-effect carousel-control">
+            <i class="icon fa fa-angle-right"></i>
+        </div>
+    
 
     <div class="carousel-item  white-text bg-cover about-cover">
         <div class="container">
@@ -379,6 +386,33 @@
         </div>
     </div>
 
+    
+        
+
+        
+            
+            <div class="carousel-item amber white-text carousel-post bg-cover"
+                 style="background-image: url('/medias/featureimages/16.jpg');">
+                <div class="container">
+                    <div class="row">
+                        <div class="col s10 offset-s1">
+                            <div class="title center-align">Github搭建个人博客</div>
+                            <div class="description center-align">
+                                
+                                    利用Github搭建自己的个人博客
+                                
+                            </div>
+                            <div class="cover-btns">
+                                <a href="/2022/10/11/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" class="waves-effect waves-light btn"
+                                   target="_blank">
+                                    <i class="icon fa fa-eye fa-fw"></i>阅读更多
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
     
 </div>
 
@@ -534,33 +568,32 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2022/10/09/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2V1-5/">
+                    <a href="/2022/10/11/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="Github搭建个人博客V1.5">
+                            <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="Github搭建个人博客">
                             
-                            <span class="card-title">Github搭建个人博客V1.5</span>
+                            <span class="card-title">Github搭建个人博客</span>
                         </div>
                     </a>
 
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                利用Github DIY自己的个人博客👋Hi 别来无恙利用Github搭建自己的个人博客是一件非常简单的事情，大家不必过于担心，更不必对自己没有信心。
-本教程适用于喜欢💞️ 记录需要免费搭建个人博客的萌新🌱用户，使用此教程任何人都可以
+                                利用Github搭建自己的个人博客
                             
                         </div>
                         <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-10-09
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-10-11
                             </span>
                             <span class="publish-author">
                                 
                                 <i class="fas fa-bookmark fa-fw icon-category"></i>
                                 
-                                <a href="/categories/%E6%8A%80%E6%9C%AF/" class="post-category">
-                                    技术
+                                <a href="/categories/%E6%96%87%E6%A1%A3/" class="post-category">
+                                    文档
                                 </a>
                                 
                                 
@@ -584,7 +617,7 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2022/10/08/hello-world/">
+                    <a href="/2022/10/10/hello-world/">
                         <div class="card-image">
                             
                             
@@ -597,22 +630,34 @@
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex
+                                欢迎使用Hexo!这是你的第一篇帖子
                             
                         </div>
                         <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-10-08
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-10-10
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fas fa-user fa-fw"></i>
-                                Color Mao
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E6%96%87%E6%A1%A3/" class="post-category">
+                                    文档
+                                </a>
+                                
                                 
                             </span>
                         </div>
                     </div>
 
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/Hexo%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/">
+                            <span class="chip bg-color">Hexo帮助文档</span>
+                        </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -953,6 +998,14 @@ $(function () {
     <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
     <script src="/js/matery.js"></script>
 
+    
+        <!-- <script src='https://unpkg.com/mermaid@latest/dist/mermaid.min.js'></script> -->
+        <script src='/libs/mermaid/mermaid.min.js'></script>
+        <script>
+          if (window.mermaid) {
+            mermaid.initialize({theme: 'forest'});
+          }
+        </script>
     
 
     
