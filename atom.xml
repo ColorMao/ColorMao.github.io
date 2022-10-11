@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Color Mao</title>
+  
+  <subtitle> </subtitle>
+  <link href="https://colormao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://colormao.github.io/"/>
+  <updated>2022-10-10T08:31:49.581Z</updated>
+  <id>https://colormao.github.io/</id>
+  
+  <author>
+    <name>Color Mao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github搭建个人博客V1.5</title>
+    <link href="https://colormao.github.io/2022/10/09/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2V1-5/"/>
+    <id>https://colormao.github.io/2022/10/09/Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2V1-5/</id>
+    <published>2022-10-09T13:19:00.000Z</published>
+    <updated>2022-10-10T08:31:49.581Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;利用Github-DIY自己的个人博客&quot;&gt;&lt;a href=&quot;#利用Github-DIY自己的个人博客&quot; class=&quot;headerlink&quot; title=&quot;利用Github DIY自己的个人博客&quot;&gt;&lt;/a&gt;利用Github DIY自己的个人博客&lt;/h2&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://colormao.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="搭建博客" scheme="https://colormao.github.io/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://colormao.github.io/2022/10/08/hello-world/"/>
+    <id>https://colormao.github.io/2022/10/08/hello-world/</id>
+    <published>2022-10-08T13:03:37.325Z</published>
+    <updated>2022-10-08T13:03:37.325Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
